@@ -1,0 +1,2 @@
+# Akillinotlar
+Akilli notlar uygulamasi
